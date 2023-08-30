@@ -1,1 +1,16 @@
 What is Emmet :
+Answer: Set of plugins for text-editors that allow fast coding with help of shortcuts.
+
+What is the difference between libraries and frameworks?
+Answer: Difference between a library and a framework lies in the level of control and structure they provide. 
+Libraries offer specific functionalities that developers can use as needed, while frameworks provide a comprehensive structure
+and set of tools that guide the entire application development process.
+
+What is CDN ? Why do we use it? 
+Answer: A content delivery network (CDN) refers to a geographically distributed group of servers 
+that work together to provide fast delivery of Internet content. The main use of a CDN is to deliver 
+content through a network of servers in a secure and efficient way.
+
+Why is React named React ?
+Answer: React is named React because of its ability to react to changes in data
+
