@@ -1,0 +1,17 @@
+#Namaste Food App.
+--Header
+-Logo
+-nav-items
+--Body
+-search-bar
+-restaurant-container
+-restaurant-cards
+-image
+-name star-rating
+-price
+-cuisine,delivery-time
+--Footer
+-copyright
+-contact us
+-link
+-address
