@@ -1580,7 +1580,7 @@ const Body = () => {
       </div>
     </div>
   );
-  // Index should not be used as a key, use unique keys. but index is better as `
+  // Index should not be used as a key, use unique keys. but index is better as
 };
 const AppLayout = () => {
   return (
