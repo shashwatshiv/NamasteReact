@@ -1,0 +1,2 @@
+find how to add image, form?
+how jsx is executed?

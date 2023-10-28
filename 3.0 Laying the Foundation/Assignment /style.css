@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+}
+.container {
+  background-color: aquamarine;
+  display: flex;
+  justify-content: space-between;
+}
